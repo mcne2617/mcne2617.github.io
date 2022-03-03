@@ -1,23 +1,23 @@
 /*
 *
 {
-	border: 1px Skyblue;
+	border: 1px Dodgerblue;
 }
 */
 
 :root
 {
-	--Skyblue: rgb(135, 206, 235);
+	--Dodgerblue: rgb(30, 144, 255);
 }
 body
 {
 	text-align: center;
 	list-style-position: inside;
-	background-color:  var(--Blue);
+	background-color:  var(--Dodgerblue);
 }
 header
 {
-	background-color:  Ghostwhite;
+	background-color:  Dodgerblue;
 	border: 10px dashed Orangered;
 	margin: 10px 100px;
 }

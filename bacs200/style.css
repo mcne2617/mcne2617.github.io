@@ -6,16 +6,16 @@
 */
 :root
 {
-	--old-western-brown: rgb(100,50,18);
+	--Gray: rgb(128,128,128);
 }
 body
 {
 	text-align: center;
 	list-style-position: inside;
-	background-color:  tan
+	background-color:  #8B4513
 header
 {
-	background-color:  sandybrown;
+	background-color:  burlywood;
 	border: 5px dashed yellow;
 	margin: 10px 100px;
 }
@@ -28,7 +28,7 @@ header h1
 header h2
 {
 	font-size:  20pt;
-	color: var(--old-western-brown);
+	color: var(-burlywood-);
 	font-variant: small-caps;
 }
 main h1

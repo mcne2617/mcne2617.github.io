@@ -1,32 +1,42 @@
+/*
+*
+{
+	border: 1px solid brown;
+}
+*/
 
-	--Gray: rgb(128,128,128);
+:root
+{
+	--old-western-brown: rgb(100,50,18);
+}
 body
 {
 	text-align: center;
 	list-style-position: inside;
-	background-color:  #8B4513
+	background-color:  var(--old-western-brown);
+}
 header
 {
-	background-color:  burlywood;
-	border: 5px dashed yellow;
+	background-color:  sandybrown;
+	border: 5px dashed brown;
 	margin: 10px 100px;
 }
 header h1
 {
-	font-size:  50pt;
+	font-size:  60pt;
 	margin-top:  10px;
 	margin-bottom: 0;
 }
 header h2
 {
 	font-size:  20pt;
-	color: var(-burlywood-);
+	color: var(--old-western-brown);
 	font-variant: small-caps;
 }
 main h1
 {
 	font-size:  70pt;
-	font-family: 'Impact', serif;
+	font-family: 'Brush Script MT', cursive;
 	margin: 0;
 }
 h1+h2

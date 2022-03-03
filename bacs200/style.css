@@ -1,13 +1,5 @@
-/*
-*
-{
-	border: 1px solid brown;
-}
-*/
-:root
-{
+
 	--Gray: rgb(128,128,128);
-}
 body
 {
 	text-align: center;

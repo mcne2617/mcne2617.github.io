@@ -7,7 +7,7 @@
 
 :root
 {
-	--#D7BDE2 : rgb(215,189,226);
+	--#FFC0CB : rgb(255,192,203);
 }
 body
 {
@@ -18,7 +18,7 @@ body
 header
 {
 	background-color:  #FFC0CB;
-	border: 10px dashed #F8F9F9;
+	border: 10px dashed #FFC0CB;
 	margin: 10px 100px;
 }
 header h1

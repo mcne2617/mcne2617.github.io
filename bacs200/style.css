@@ -1,7 +1,7 @@
 /*
 *
 {
-	border: 1px #B49DEA;
+	border: 5px solid pink;
 }
 */
 
@@ -12,13 +12,15 @@
 body
 {
 	text-align: center;
+	color: white;
 	list-style-position: inside;
 	background-color:  var(--#FFC0CB);
 }
 header
 {
-	background-color:  #FFC0CB;
-	border: 10px dashed #FFC0CB;
+	font-family: "blockfont", Courier New;
+	background-color:  rgb(255, 192, 203);
+	border: 10px dashed rgb(255, 255, 191);
 	margin: 10px 100px;
 }
 header h1

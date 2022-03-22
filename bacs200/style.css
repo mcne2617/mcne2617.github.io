@@ -13,11 +13,11 @@ body
 {
 	text-align: left;
 	list-style-position: inside;
-	background-color:  var(--#B49DEA);
+	background-color:  var(--#FFC0CB);
 }
 header
 {
-	background-color:  #B49DEA;
+	background-color:  #FFC0CB;
 	border: 10px dashed #F8F9F9;
 	margin: 10px 100px;
 }

@@ -14,11 +14,11 @@ body
 	text-align: center;
 	color: white;
 	list-style-position: inside;
-	background-color:  var(--#FFC0CB);
+	background-color:  rgb(255, 255, 191;
 }
 header
 {
-	font-family: "blockfont", Courier New;
+	font-family: 'Copperplate', Monospace;
 	background-color:  rgb(255, 192, 203);
 	border: 10px dashed rgb(255, 255, 191);
 	margin: 10px 100px;

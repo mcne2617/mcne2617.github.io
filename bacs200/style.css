@@ -11,7 +11,7 @@
 }
 body
 {
-	text-align: left;
+	text-align: center;
 	list-style-position: inside;
 	background-color:  var(--#FFC0CB);
 }

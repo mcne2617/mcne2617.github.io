@@ -1,24 +1,24 @@
 /*
 *
 {
-	border: 1px Dodgerblue;
+	border: 1px #EBDEF0;
 }
 */
 
 :root
 {
-	--Dodgerblue: rgb(30, 144, 255);
+	--#EBDEF0: rgb(235,222,240);
 }
 body
 {
-	text-align: center;
+	text-align: right;
 	list-style-position: inside;
-	background-color:  var(--Dodgerblue);
+	background-color:  var(--#EBDEF0);
 }
 header
 {
-	background-color:  Dodgerblue;
-	border: 10px dashed Orangered;
+	background-color:  #EBDEF0;
+	border: 10px dashed #F8F9F9;
 	margin: 10px 100px;
 }
 header h1
@@ -30,7 +30,7 @@ header h1
 header h2
 {
 	font-size:  30pt;
-	color: var(--Blue);
+	color: var(--Purple);
 	font-variant: small-caps;
 }
 main h1

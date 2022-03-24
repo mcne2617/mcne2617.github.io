@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 *
 {
@@ -61,3 +62,66 @@ main ul
 	font-size: 25pt;
 	float:  right;
 }
+=======
+{
+	border: 1px #4D7CC9;
+}
+*/
+
+:root
+{
+	--:#4D7CC9 rgb(77, 124, 201 );
+}
+body
+{
+	text-align: center;
+	list-style-position: inside;
+	background-color:  var(--#4D7CC9);
+}
+header
+{
+	background-color:  #4D7CC9;
+	border: 10px dashed white;
+	margin: 10px 100px;
+}
+header h1
+{
+	font-size:  100pt;
+	margin-top:  10px;
+	margin-bottom: 0;
+}
+header h2
+{
+	font-size:  30pt;
+	color: var(--#4D7CC9);
+	font-variant: small-caps;
+}
+main h1
+{
+	font-size:  70pt;
+	font-family: 'Copperplate', Monospace;
+	margin: 0;
+}
+h1+h2
+{
+	margin-top: -15px;
+}
+main h2
+{
+	text-decoration: underline;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+main ul
+{
+	display:  table;
+	margin: 0 auto;
+	text-align:  center;
+	/*padding-left: 2px;*/
+}
+#wantedlist
+{
+	font-size: 25pt;
+	float:  center;
+}
+>>>>>>> 7ad68c047ddd33a3de3f6cc3d76da8d36147fb98

@@ -1,5 +1,3 @@
-/*
-*
 {
 	border: 1px #EBDEF0;
 }
@@ -7,13 +5,13 @@
 
 :root
 {
-	--#EBDEF0: rgb(235,222,240);
+	--#2937C5: rgb(41, 55, 197);
 }
 body
 {
 	text-align: left;
 	list-style-position: inside;
-	background-color:  var(--#EBDEF0);
+	background-color:  var(--#2937C5);
 }
 header
 {
@@ -30,7 +28,7 @@ header h1
 header h2
 {
 	font-size:  30pt;
-	color: var(--Purple);
+	color: var(--Blue);
 	font-variant: small-caps;
 }
 main h1
@@ -56,8 +54,4 @@ main ul
 	text-align:  left;
 	/*padding-left: 2px;*/
 }
-#wantedlist
-{
-	font-size: 25pt;
-	float:  right;
-}
+

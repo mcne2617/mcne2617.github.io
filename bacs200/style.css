@@ -1,61 +1,56 @@
-{
-	border: 1px #EBDEF0;
-}
-*/
-
 :root
 {
-	--#2937C5: rgb(41, 55, 197);
+	--: #BCE2CD;
 }
 body
 {
-	text-align: left;
+	text-align: center;
+	color: white;
 	list-style-position: inside;
-	background-color:  var(--#2937C5);
+	background-color: ##BCE2CD;
 }
 header
 {
-	background-color:  #EBDEF0;
-	border: 10px dashed #F8F9F9;
+	font-family: "Copperplate", Courier New;
+	background-color:  rgb(188, 226, 205);
+	border: 15px dotted rgb(247, 250, 249);
 	margin: 10px 100px;
 }
 header h1
 {
-	font-size:  100pt;
-	margin-top:  10px;
+	font-size:  75pt;
+	margin-top:  15px;
 	margin-bottom: 0;
 }
 header h2
 {
 	font-size:  30pt;
-	color: var(--Blue);
-	font-variant: small-caps;
+	color: var(--#F7FAF9);
+	font-variant: large-caps;
 }
-main h1
-{
-	font-size:  70pt;
-	font-family: 'Copperplate', Monospace;
-	margin: 0;
-}
-h1+h2
-{
-	margin-top: -15px;
-}
-main h2
-{
-	text-decoration: underline;
-	font-weight: bold;
-	margin-bottom: 0;
-}
-main ul
-{
-	display:  table;
-	margin: 0 auto;
-	text-align:  left;
-	/*padding-left: 2px;*/
-}
-#wantedlist
-{
-	font-size: 25pt;
-	float:  right;
-}
+
+		caption
+		{
+			text-decoration:underline;
+			font-size:35px;
+			color: tan;
+		
+		}
+		th
+		{
+			width:200px;
+			font-size:20px;
+		}
+		th,td
+		{
+			border:1px solid tan;
+			padding-left:10px;
+			padding-right:10px;
+			padding-top:10px;
+			padding-bottom:10px;
+		}
+		table
+		{
+			border-spacing:0px;
+		}
+

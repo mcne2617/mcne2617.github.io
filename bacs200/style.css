@@ -5,13 +5,13 @@
 
 :root
 {
-	--#EBDEF0: rgb(235,222,240);
+	--#2937C5: rgb(41, 55, 197);
 }
 body
 {
 	text-align: left;
 	list-style-position: inside;
-	background-color:  var(--#EBDEF0);
+	background-color:  var(--#2937C5);
 }
 header
 {
@@ -28,7 +28,7 @@ header h1
 header h2
 {
 	font-size:  30pt;
-	color: var(--Purple);
+	color: var(--Blue);
 	font-variant: small-caps;
 }
 main h1

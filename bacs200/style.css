@@ -16,8 +16,10 @@ h2 {
 {
 	--#2937C5: rgb(41, 55, 197);
 }
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:ital@0;1&family=Fjalla+One&family=Julius+Sans+One&display=swap');
 body
 {
+	font-family: 'Fjalla One', sans-serif;
 	text-align: left;
 	list-style-position: inside;
 	background-color:  var(--#2937C5);

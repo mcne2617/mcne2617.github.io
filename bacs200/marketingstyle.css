@@ -39,6 +39,7 @@ main h1
 }
 h1+h2
 {
+	text-align: left;
 	margin-top: -15px;
 }
 main h2

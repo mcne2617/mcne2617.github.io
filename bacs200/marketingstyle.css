@@ -7,14 +7,14 @@ body
 	list-style-position: inside;
 	background-color:  var(--#FCF9D1);
 }
+main .banner-image 
+{ width=100% ;
+}
 header
 {
 	background-color:  #FCF9D1;
 	border: 10px dashed white;
 	margin: 10px 100px;
-}
-main .banner-image 
-{ width=100% ;
 }
 header h1
 {

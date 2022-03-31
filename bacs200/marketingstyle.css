@@ -32,7 +32,7 @@ main h1
 	margin: 0;
 }
 img {
-    float: left;
+    float: right;
 }
 h1+h2
 {

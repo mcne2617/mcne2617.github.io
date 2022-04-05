@@ -32,10 +32,11 @@ header h2
 	color: var(white);
 	font-variant: small-caps;
 }
-main h1
+main 
 img {
     float: right;
 }
+main h1
 {
 	font-size:  70pt;
 	font-family: 'Copperplate', Monospace;

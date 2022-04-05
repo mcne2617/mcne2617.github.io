@@ -34,13 +34,12 @@ header h2
 }
 main h1
 {
-
+img {
+    float: right;
+}
 	font-size:  70pt;
 	font-family: 'Copperplate', Monospace;
 	margin: 0;
-}
-img {
-    float: right;
 }
 h1+h2
 {

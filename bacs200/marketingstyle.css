@@ -33,15 +33,15 @@ header h2
 	font-variant: small-caps;
 }
 main h1
+img {
+    float: right;
+}
 {
 	font-size:  70pt;
 	font-family: 'Copperplate', Monospace;
 	margin: 0;
 }
 h1+h2
-img {
-    float: right;
-}
 {
 	margin-top: -15px;
 }

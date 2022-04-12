@@ -1,3 +1,12 @@
+*{
+	background-color: #E4FCE2;
+}
+h1 {
+	font-family: 'Didot', serif;
+}
+h2 {
+	font-family: 'Didot', serif;
+}
 {
 	border: 1px #EBDEF0;
 }
@@ -7,8 +16,10 @@
 {
 	--#2937C5: rgb(41, 55, 197);
 }
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:ital@0;1&family=Fjalla+One&family=Julius+Sans+One&display=swap');
 body
 {
+	font-family: 'Fjalla One', sans-serif;
 	text-align: left;
 	list-style-position: inside;
 	background-color:  var(--#2937C5);
@@ -34,7 +45,7 @@ header h2
 main h1
 {
 	font-size:  70pt;
-	font-family: 'Copperplate', Monospace;
+	font-family:  'Didot', serif;
 	margin: 0;
 }
 h1+h2

@@ -2,10 +2,10 @@
 style="background-color:LightGray;">LightGray
 </h1>
 h1 {
-	font-family: 'Didot', serif;
+	font-family: 'Georgia', serif;
 }
 h2 {
-	font-family: 'Didot', serif;
+	font-family: 'Georgia', serif;
 }
 {
 	border: 1px #EBDEF0;
@@ -19,7 +19,7 @@ h2 {
 @import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:ital@0;1&family=Fjalla+One&family=Julius+Sans+One&display=swap');
 body
 {
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Georgia', serif;
 	text-align: left;
 	list-style-position: inside;
 	background-color:  var(--#2937C5);

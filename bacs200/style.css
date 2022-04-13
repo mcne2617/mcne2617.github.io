@@ -39,7 +39,7 @@ header h1
 header h2
 {
 	font-size:  30pt;
-	color: var(--Blue);
+	color: var(--black);
 	font-variant: small-caps;
 }
 main h1

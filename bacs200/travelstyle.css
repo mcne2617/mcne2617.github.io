@@ -1,0 +1,67 @@
+<h1 
+style="background-color:LightGray;">LightGray
+</h1>
+h1 {
+	font-family: 'Didot', serif;
+}
+h2 {
+	font-family: 'Didot', serif;
+}
+{
+	border: 1px #EBDEF0;
+}
+*/
+
+:root
+{
+	--#2937C5: rgb(41, 55, 197);
+}
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:ital@0;1&family=Fjalla+One&family=Julius+Sans+One&display=swap');
+body
+{
+	font-family: 'Fjalla One', sans-serif;
+	text-align: left;
+	list-style-position: inside;
+	background-color:  var(--#2937C5);
+}
+header
+{
+background-image: url("images/germany.jpeg");
+	border: 10px dashed #F8F9F9;
+	margin: 10px 100px;
+}
+header h1
+{
+	font-size:  100pt;
+	margin-top:  10px;
+	margin-bottom: 0;
+}
+header h2
+{
+	font-size:  30pt;
+	color: var(--black);
+	font-variant: small-caps;
+}
+main h1
+{
+	font-size:  70pt;
+	font-family:  'Didot', serif;
+	margin: 0;
+}
+h1+h2
+{
+	margin-top: -15px;
+}
+main h2
+{
+	text-decoration: underline;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+main ul
+{
+	display:  table;
+	margin: 0 auto;
+	text-align:  left;
+	/*padding-left: 2px;*/
+}
